@@ -1,3 +1,6 @@
+
+A rendre le 31/12
+
 'est dans mon cadre de projet de vision le but est d'afficher un objet en augmented reality sur une video , dans le but cest d'utiliser ce code mais pour plusieurs photos , mais les points world doivent etre trouve automatiquement par exemple les bord d'un truc sur l'image ou un quelques chose du genre , mais pour trouver ces points d'intereseement le prof nous a donné 2 methodes: chercher un vecteur de feature en points reel puis essayer de le trouver dans l'image pour retrouver les pixels, ou directement trouver les pixels avec une detetection de bords, puis afficher l'objet qu'on veut sur ses points d'interessement 
 ChatGPT a dit :
 ChatGPT
