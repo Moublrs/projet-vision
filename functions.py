@@ -66,7 +66,7 @@ def plot_3d_cube(image, P):
         plt.plot([x_cube[p1], x_cube[p2]], [y_cube[p1], y_cube[p2]], 'm-', linewidth=2)
 
     # Highlight cube points
-    plt.plot(x_cube, y_cube, 'bo', markerfacecolor='g', markersize=8)
+    plt.plot(x_cube, y_cube, 'bo', markerfacecolor='g', markersize=3)
     plt.title("3D Cube Projection onto the Image")
     plt.show()
 
